@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  article: one
+  transformation: one
+  status: MyString
+  response_data: MyText
+
+two:
+  article: two
+  transformation: two
+  status: MyString
+  response_data: MyText
