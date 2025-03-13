@@ -5,7 +5,7 @@ gemspec
 
 gem "puma"
 
-gem "sqlite3"
+gem "mysql2", "~> 0.5"
 
 gem "propshaft"
 
