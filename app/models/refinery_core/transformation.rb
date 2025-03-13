@@ -4,5 +4,7 @@ module RefineryCore
 
     belongs_to :article
     belongs_to :prompt
+
+    validates :content, presence: true
   end
 end
